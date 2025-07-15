@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dataforcanada.org.ico",
     "slug": "www-dataforcanada-org",
     "status": "up",
-    "uptime": "1.70%",
-    "uptimeDay": "1.70%",
-    "uptimeWeek": "1.70%",
-    "uptimeMonth": "1.70%",
-    "uptimeYear": "1.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2025-07-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "data-01.dataforcanada.org",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/data-01.dataforcanada.org.ico",
     "slug": "data-01-dataforcanada-org",
     "status": "up",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 298,
     "timeWeek": 298,
     "timeMonth": 298,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2025-07-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "data-02.dataforcanada.org",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/data-02.dataforcanada.org.ico",
     "slug": "data-02-dataforcanada-org",
     "status": "up",
-    "uptime": "0.97%",
-    "uptimeDay": "0.97%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "0.97%",
-    "uptimeYear": "0.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 283,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2025-07-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "status-02.dataforcanada.org",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status-02.dataforcanada.org.ico",
     "slug": "status-02-dataforcanada-org",
     "status": "up",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 272,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2025-07-15": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
