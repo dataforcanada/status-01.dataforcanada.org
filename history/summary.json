@@ -4,19 +4,19 @@
     "url": "https://www.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dataforcanada.org.ico",
     "slug": "www-dataforcanada-org",
-    "status": "down",
-    "uptime": "0.50%",
-    "uptimeDay": "0.50%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "0.50%",
-    "uptimeYear": "0.50%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "1.70%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "1.70%",
+    "uptimeYear": "1.70%",
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://data-01.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/data-01.dataforcanada.org.ico",
     "slug": "data-01-dataforcanada-org",
-    "status": "down",
-    "uptime": "1.02%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.02%",
-    "uptimeMonth": "1.02%",
-    "uptimeYear": "1.02%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "1.23%",
+    "uptimeDay": "1.23%",
+    "uptimeWeek": "1.23%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "1.23%",
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://data-02.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/data-02.dataforcanada.org.ico",
     "slug": "data-02-dataforcanada-org",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "status": "up",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://status-02.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/status-02.dataforcanada.org.ico",
     "slug": "status-02-dataforcanada-org",
-    "status": "down",
-    "uptime": "5.29%",
-    "uptimeDay": "5.29%",
-    "uptimeWeek": "5.29%",
-    "uptimeMonth": "5.29%",
-    "uptimeYear": "5.29%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-07-15": 0
+      "2025-07-15": 10
     }
   }
 ]
