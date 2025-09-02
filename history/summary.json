@@ -40,18 +40,20 @@
     "url": "https://data-02.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/data-02.dataforcanada.org.ico",
     "slug": "data-02-dataforcanada-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 99,
-    "timeWeek": 977,
-    "timeMonth": 484,
-    "timeYear": 405,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 149,
+    "timeWeek": 880,
+    "timeMonth": 475,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2025-09-02": 0
+    }
   },
   {
     "name": "status-02.dataforcanada.org",
