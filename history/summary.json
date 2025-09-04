@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 288,
-    "timeWeek": 251,
-    "timeMonth": 450,
-    "timeYear": 373,
+    "time": 375,
+    "timeDay": 481,
+    "timeWeek": 281,
+    "timeMonth": 458,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 277,
-    "timeWeek": 260,
-    "timeMonth": 426,
-    "timeYear": 366,
+    "time": 364,
+    "timeDay": 242,
+    "timeWeek": 251,
+    "timeMonth": 430,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "data-02-dataforcanada-org",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 394,
-    "timeDay": 220,
-    "timeWeek": 251,
-    "timeMonth": 462,
-    "timeYear": 394,
+    "time": 391,
+    "timeDay": 224,
+    "timeWeek": 262,
+    "timeMonth": 457,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-09-02": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 334,
-    "timeDay": 240,
-    "timeWeek": 299,
-    "timeMonth": 361,
-    "timeYear": 334,
+    "time": 332,
+    "timeDay": 230,
+    "timeWeek": 304,
+    "timeMonth": 353,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2025-07-15": 19
     }
