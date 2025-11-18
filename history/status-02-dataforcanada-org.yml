@@ -1,7 +1,7 @@
 url: https://status-02.dataforcanada.org
-status: down
-code: 500
-responseTime: 119
-lastUpdated: 2025-11-18T11:55:26.002Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2025-11-18T14:48:16.026Z
 startTime: 2025-07-15T16:57:23.138Z
 generator: Upptime <https://github.com/upptime/upptime>
