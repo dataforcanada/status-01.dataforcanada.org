@@ -7,10 +7,6 @@ sites:
     url: https://www.dataforcanada.org
   - name: data-01.dataforcanada.org
     url: https://data-01.dataforcanada.org
-  - name: data-02.dataforcanada.org
-    url: https://data-02.dataforcanada.org
-  - name: status-02.dataforcanada.org
-    url: https://status-02.dataforcanada.org
 assignees:
   - diegoripley
 
